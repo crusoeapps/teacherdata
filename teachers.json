@@ -1,5 +1,494 @@
 {
-  "updated": "2026-04-29T05:20:51.706Z",
+  "updated": "2026-04-29T05:24:08.057Z",
   "month": "April 2026",
-  "teachers": []
+  "teachers": [
+    {
+      "name": "Anna Beilharz",
+      "url": "https://crusoeapps.github.io/teacherdata/anna-beilharz.html"
+    },
+    {
+      "name": "Angela Casey",
+      "url": "https://crusoeapps.github.io/teacherdata/angela-casey.html"
+    },
+    {
+      "name": "Andrew Creek",
+      "url": "https://crusoeapps.github.io/teacherdata/andrew-creek.html"
+    },
+    {
+      "name": "Alice Fleay",
+      "url": "https://crusoeapps.github.io/teacherdata/alice-fleay.html"
+    },
+    {
+      "name": "Amy Gillies",
+      "url": "https://crusoeapps.github.io/teacherdata/amy-gillies.html"
+    },
+    {
+      "name": "Avnish Gungah",
+      "url": "https://crusoeapps.github.io/teacherdata/avnish-gungah.html"
+    },
+    {
+      "name": "Alicia Parry",
+      "url": "https://crusoeapps.github.io/teacherdata/alicia-parry.html"
+    },
+    {
+      "name": "Angus Mcpherson",
+      "url": "https://crusoeapps.github.io/teacherdata/angus-mcpherson.html"
+    },
+    {
+      "name": "Annie Parker",
+      "url": "https://crusoeapps.github.io/teacherdata/annie-parker.html"
+    },
+    {
+      "name": "Alistair Sharp",
+      "url": "https://crusoeapps.github.io/teacherdata/alistair-sharp.html"
+    },
+    {
+      "name": "Britney Brownhill",
+      "url": "https://crusoeapps.github.io/teacherdata/britney-brownhill.html"
+    },
+    {
+      "name": "Beverley Carlton",
+      "url": "https://crusoeapps.github.io/teacherdata/beverley-carlton.html"
+    },
+    {
+      "name": "Bryce Curnow",
+      "url": "https://crusoeapps.github.io/teacherdata/bryce-curnow.html"
+    },
+    {
+      "name": "Ben Caruana",
+      "url": "https://crusoeapps.github.io/teacherdata/ben-caruana.html"
+    },
+    {
+      "name": "Bruce Cen",
+      "url": "https://crusoeapps.github.io/teacherdata/bruce-cen.html"
+    },
+    {
+      "name": "Bastiaan Debondt",
+      "url": "https://crusoeapps.github.io/teacherdata/bastiaan-debondt.html"
+    },
+    {
+      "name": "Belinda Gilliekemmer",
+      "url": "https://crusoeapps.github.io/teacherdata/belinda-gilliekemmer.html"
+    },
+    {
+      "name": "Breeanna Mckern",
+      "url": "https://crusoeapps.github.io/teacherdata/breeanna-mckern.html"
+    },
+    {
+      "name": "Brayden Mertz",
+      "url": "https://crusoeapps.github.io/teacherdata/brayden-mertz.html"
+    },
+    {
+      "name": "Billy Rogers",
+      "url": "https://crusoeapps.github.io/teacherdata/billy-rogers.html"
+    },
+    {
+      "name": "Brooke Warren",
+      "url": "https://crusoeapps.github.io/teacherdata/brooke-warren.html"
+    },
+    {
+      "name": "Carolyn Boyd",
+      "url": "https://crusoeapps.github.io/teacherdata/carolyn-boyd.html"
+    },
+    {
+      "name": "Colleen Biggs",
+      "url": "https://crusoeapps.github.io/teacherdata/colleen-biggs.html"
+    },
+    {
+      "name": "Catherine Boerema",
+      "url": "https://crusoeapps.github.io/teacherdata/catherine-boerema.html"
+    },
+    {
+      "name": "Callum Crisp",
+      "url": "https://crusoeapps.github.io/teacherdata/callum-crisp.html"
+    },
+    {
+      "name": "Callum Hart",
+      "url": "https://crusoeapps.github.io/teacherdata/callum-hart.html"
+    },
+    {
+      "name": "Chelsea Hargreaves",
+      "url": "https://crusoeapps.github.io/teacherdata/chelsea-hargreaves.html"
+    },
+    {
+      "name": "Christopher Hogan",
+      "url": "https://crusoeapps.github.io/teacherdata/christopher-hogan.html"
+    },
+    {
+      "name": "Christopher Kellow",
+      "url": "https://crusoeapps.github.io/teacherdata/christopher-kellow.html"
+    },
+    {
+      "name": "Chantelle Mcmillin",
+      "url": "https://crusoeapps.github.io/teacherdata/chantelle-mcmillin.html"
+    },
+    {
+      "name": "Carissa Mcintyre",
+      "url": "https://crusoeapps.github.io/teacherdata/carissa-mcintyre.html"
+    },
+    {
+      "name": "Charli Rogers",
+      "url": "https://crusoeapps.github.io/teacherdata/charli-rogers.html"
+    },
+    {
+      "name": "Carole Waterson",
+      "url": "https://crusoeapps.github.io/teacherdata/carole-waterson.html"
+    },
+    {
+      "name": "Duane Anderson",
+      "url": "https://crusoeapps.github.io/teacherdata/duane-anderson.html"
+    },
+    {
+      "name": "Damian Emond",
+      "url": "https://crusoeapps.github.io/teacherdata/damian-emond.html"
+    },
+    {
+      "name": "Danielle Hirth",
+      "url": "https://crusoeapps.github.io/teacherdata/danielle-hirth.html"
+    },
+    {
+      "name": "Daryl Lowndes",
+      "url": "https://crusoeapps.github.io/teacherdata/daryl-lowndes.html"
+    },
+    {
+      "name": "Emma Grant",
+      "url": "https://crusoeapps.github.io/teacherdata/emma-grant.html"
+    },
+    {
+      "name": "Elle Mcdonald",
+      "url": "https://crusoeapps.github.io/teacherdata/elle-mcdonald.html"
+    },
+    {
+      "name": "Ellen Mcgrath",
+      "url": "https://crusoeapps.github.io/teacherdata/ellen-mcgrath.html"
+    },
+    {
+      "name": "Elizabeth Ogilvy",
+      "url": "https://crusoeapps.github.io/teacherdata/elizabeth-ogilvy.html"
+    },
+    {
+      "name": "Elizabeth Sedman",
+      "url": "https://crusoeapps.github.io/teacherdata/elizabeth-sedman.html"
+    },
+    {
+      "name": "Liz Stewart",
+      "url": "https://crusoeapps.github.io/teacherdata/liz-stewart.html"
+    },
+    {
+      "name": "Elizabeth Woodward",
+      "url": "https://crusoeapps.github.io/teacherdata/elizabeth-woodward.html"
+    },
+    {
+      "name": "Felixia Lee",
+      "url": "https://crusoeapps.github.io/teacherdata/felixia-lee.html"
+    },
+    {
+      "name": "Greeshma Columbus",
+      "url": "https://crusoeapps.github.io/teacherdata/greeshma-columbus.html"
+    },
+    {
+      "name": "Gary Mullens",
+      "url": "https://crusoeapps.github.io/teacherdata/gary-mullens.html"
+    },
+    {
+      "name": "Gpratt",
+      "url": "https://crusoeapps.github.io/teacherdata/gpratt.html"
+    },
+    {
+      "name": "Gaynor Turner",
+      "url": "https://crusoeapps.github.io/teacherdata/gaynor-turner.html"
+    },
+    {
+      "name": "Heidi Erasmus",
+      "url": "https://crusoeapps.github.io/teacherdata/heidi-erasmus.html"
+    },
+    {
+      "name": "Harry Symons",
+      "url": "https://crusoeapps.github.io/teacherdata/harry-symons.html"
+    },
+    {
+      "name": "Ian Berry",
+      "url": "https://crusoeapps.github.io/teacherdata/ian-berry.html"
+    },
+    {
+      "name": "Isabella Sangster",
+      "url": "https://crusoeapps.github.io/teacherdata/isabella-sangster.html"
+    },
+    {
+      "name": "Joshua Brown",
+      "url": "https://crusoeapps.github.io/teacherdata/joshua-brown.html"
+    },
+    {
+      "name": "Julian Bedford",
+      "url": "https://crusoeapps.github.io/teacherdata/julian-bedford.html"
+    },
+    {
+      "name": "Jacqueline Bentley",
+      "url": "https://crusoeapps.github.io/teacherdata/jacqueline-bentley.html"
+    },
+    {
+      "name": "Joshua Cotter",
+      "url": "https://crusoeapps.github.io/teacherdata/joshua-cotter.html"
+    },
+    {
+      "name": "Jen Caneva-black",
+      "url": "https://crusoeapps.github.io/teacherdata/jen-caneva-black.html"
+    },
+    {
+      "name": "Jason Carter",
+      "url": "https://crusoeapps.github.io/teacherdata/jason-carter.html"
+    },
+    {
+      "name": "Jackie Crawford",
+      "url": "https://crusoeapps.github.io/teacherdata/jackie-crawford.html"
+    },
+    {
+      "name": "Jessi Muston",
+      "url": "https://crusoeapps.github.io/teacherdata/jessi-muston.html"
+    },
+    {
+      "name": "James Forsyth",
+      "url": "https://crusoeapps.github.io/teacherdata/james-forsyth.html"
+    },
+    {
+      "name": "Jayde Greenwood",
+      "url": "https://crusoeapps.github.io/teacherdata/jayde-greenwood.html"
+    },
+    {
+      "name": "Jemal Hiabu",
+      "url": "https://crusoeapps.github.io/teacherdata/jemal-hiabu.html"
+    },
+    {
+      "name": "James Knight",
+      "url": "https://crusoeapps.github.io/teacherdata/james-knight.html"
+    },
+    {
+      "name": "Jan Mayhead",
+      "url": "https://crusoeapps.github.io/teacherdata/jan-mayhead.html"
+    },
+    {
+      "name": "Joel Mclean",
+      "url": "https://crusoeapps.github.io/teacherdata/joel-mclean.html"
+    },
+    {
+      "name": "Jade Nicholls",
+      "url": "https://crusoeapps.github.io/teacherdata/jade-nicholls.html"
+    },
+    {
+      "name": "Jediah Shue",
+      "url": "https://crusoeapps.github.io/teacherdata/jediah-shue.html"
+    },
+    {
+      "name": "Jaksen Seymour",
+      "url": "https://crusoeapps.github.io/teacherdata/jaksen-seymour.html"
+    },
+    {
+      "name": "Jemma Schultz",
+      "url": "https://crusoeapps.github.io/teacherdata/jemma-schultz.html"
+    },
+    {
+      "name": "Kane Cook",
+      "url": "https://crusoeapps.github.io/teacherdata/kane-cook.html"
+    },
+    {
+      "name": "Kathy Jenkins",
+      "url": "https://crusoeapps.github.io/teacherdata/kathy-jenkins.html"
+    },
+    {
+      "name": "Kpru Ku",
+      "url": "https://crusoeapps.github.io/teacherdata/kpru-ku.html"
+    },
+    {
+      "name": "Kaylene Matotek",
+      "url": "https://crusoeapps.github.io/teacherdata/kaylene-matotek.html"
+    },
+    {
+      "name": "Kimberley Macnee",
+      "url": "https://crusoeapps.github.io/teacherdata/kimberley-macnee.html"
+    },
+    {
+      "name": "Soelay Pahthei",
+      "url": "https://crusoeapps.github.io/teacherdata/soelay-pahthei.html"
+    },
+    {
+      "name": "Kyah Priestly",
+      "url": "https://crusoeapps.github.io/teacherdata/kyah-priestly.html"
+    },
+    {
+      "name": "Katie Riddington",
+      "url": "https://crusoeapps.github.io/teacherdata/katie-riddington.html"
+    },
+    {
+      "name": "Kate Sleep",
+      "url": "https://crusoeapps.github.io/teacherdata/kate-sleep.html"
+    },
+    {
+      "name": "Louis Chivers",
+      "url": "https://crusoeapps.github.io/teacherdata/louis-chivers.html"
+    },
+    {
+      "name": "Lauren Gretgrix",
+      "url": "https://crusoeapps.github.io/teacherdata/lauren-gretgrix.html"
+    },
+    {
+      "name": "Lesley Jelleff",
+      "url": "https://crusoeapps.github.io/teacherdata/lesley-jelleff.html"
+    },
+    {
+      "name": "Laura Johnstone",
+      "url": "https://crusoeapps.github.io/teacherdata/laura-johnstone.html"
+    },
+    {
+      "name": "Leanne Rooke",
+      "url": "https://crusoeapps.github.io/teacherdata/leanne-rooke.html"
+    },
+    {
+      "name": "Lucille Mitchell",
+      "url": "https://crusoeapps.github.io/teacherdata/lucille-mitchell.html"
+    },
+    {
+      "name": "Cleo Luvara",
+      "url": "https://crusoeapps.github.io/teacherdata/cleo-luvara.html"
+    },
+    {
+      "name": "Michelle Barton",
+      "url": "https://crusoeapps.github.io/teacherdata/michelle-barton.html"
+    },
+    {
+      "name": "Michael Lennon",
+      "url": "https://crusoeapps.github.io/teacherdata/michael-lennon.html"
+    },
+    {
+      "name": "Megan Smart",
+      "url": "https://crusoeapps.github.io/teacherdata/megan-smart.html"
+    },
+    {
+      "name": "Mark Wrzesinski",
+      "url": "https://crusoeapps.github.io/teacherdata/mark-wrzesinski.html"
+    },
+    {
+      "name": "Naylin Aung",
+      "url": "https://crusoeapps.github.io/teacherdata/naylin-aung.html"
+    },
+    {
+      "name": "Narelle Burgess",
+      "url": "https://crusoeapps.github.io/teacherdata/narelle-burgess.html"
+    },
+    {
+      "name": "Nicholas Facey",
+      "url": "https://crusoeapps.github.io/teacherdata/nicholas-facey.html"
+    },
+    {
+      "name": "Nadine Harper",
+      "url": "https://crusoeapps.github.io/teacherdata/nadine-harper.html"
+    },
+    {
+      "name": "Nicarah Khong",
+      "url": "https://crusoeapps.github.io/teacherdata/nicarah-khong.html"
+    },
+    {
+      "name": "Paige Combridge",
+      "url": "https://crusoeapps.github.io/teacherdata/paige-combridge.html"
+    },
+    {
+      "name": "Pam Giofrelle",
+      "url": "https://crusoeapps.github.io/teacherdata/pam-giofrelle.html"
+    },
+    {
+      "name": "Peter Mcdonald",
+      "url": "https://crusoeapps.github.io/teacherdata/peter-mcdonald.html"
+    },
+    {
+      "name": "Roger Douglass",
+      "url": "https://crusoeapps.github.io/teacherdata/roger-douglass.html"
+    },
+    {
+      "name": "Ryan Good",
+      "url": "https://crusoeapps.github.io/teacherdata/ryan-good.html"
+    },
+    {
+      "name": "Rohan Harrison",
+      "url": "https://crusoeapps.github.io/teacherdata/rohan-harrison.html"
+    },
+    {
+      "name": "Rswan",
+      "url": "https://crusoeapps.github.io/teacherdata/rswan.html"
+    },
+    {
+      "name": "Samuel Burdett",
+      "url": "https://crusoeapps.github.io/teacherdata/samuel-burdett.html"
+    },
+    {
+      "name": "Susan Groom",
+      "url": "https://crusoeapps.github.io/teacherdata/susan-groom.html"
+    },
+    {
+      "name": "Samuel Hammond",
+      "url": "https://crusoeapps.github.io/teacherdata/samuel-hammond.html"
+    },
+    {
+      "name": "Simone Hawkins",
+      "url": "https://crusoeapps.github.io/teacherdata/simone-hawkins.html"
+    },
+    {
+      "name": "Sandrah Lowenthal",
+      "url": "https://crusoeapps.github.io/teacherdata/sandrah-lowenthal.html"
+    },
+    {
+      "name": "Samuel Langley",
+      "url": "https://crusoeapps.github.io/teacherdata/samuel-langley.html"
+    },
+    {
+      "name": "Stewart Mills",
+      "url": "https://crusoeapps.github.io/teacherdata/stewart-mills.html"
+    },
+    {
+      "name": "Scott Nicholls",
+      "url": "https://crusoeapps.github.io/teacherdata/scott-nicholls.html"
+    },
+    {
+      "name": "Sam Polock",
+      "url": "https://crusoeapps.github.io/teacherdata/sam-polock.html"
+    },
+    {
+      "name": "Syani Salsabilla",
+      "url": "https://crusoeapps.github.io/teacherdata/syani-salsabilla.html"
+    },
+    {
+      "name": "Sophie Thomson",
+      "url": "https://crusoeapps.github.io/teacherdata/sophie-thomson.html"
+    },
+    {
+      "name": "Sean Taylor",
+      "url": "https://crusoeapps.github.io/teacherdata/sean-taylor.html"
+    },
+    {
+      "name": "Simon Wood",
+      "url": "https://crusoeapps.github.io/teacherdata/simon-wood.html"
+    },
+    {
+      "name": "Tara Beattie",
+      "url": "https://crusoeapps.github.io/teacherdata/tara-beattie.html"
+    },
+    {
+      "name": "Travis Colley",
+      "url": "https://crusoeapps.github.io/teacherdata/travis-colley.html"
+    },
+    {
+      "name": "Tanya Holt",
+      "url": "https://crusoeapps.github.io/teacherdata/tanya-holt.html"
+    },
+    {
+      "name": "Taylah Pratt",
+      "url": "https://crusoeapps.github.io/teacherdata/taylah-pratt.html"
+    },
+    {
+      "name": "Talisa Keogh",
+      "url": "https://crusoeapps.github.io/teacherdata/talisa-keogh.html"
+    },
+    {
+      "name": "Vicky Bolding",
+      "url": "https://crusoeapps.github.io/teacherdata/vicky-bolding.html"
+    }
+  ]
 }
