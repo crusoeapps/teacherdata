@@ -1,14 +1,5 @@
 {
-  "updated": "2026-04-29T00:58:54.919Z",
+  "updated": "2026-04-29T04:50:07.076Z",
   "month": "April 2026",
-  "teachers": [
-    {
-      "name": "Duane Anderson",
-      "url": "https://crusoeapps.github.io/teacherdata/duane-anderson.html"
-    },
-    {
-      "name": "Ellen McGrath",
-      "url": "https://crusoeapps.github.io/teacherdata/ellen-mcgrath.html"
-    }
-  ]
+  "teachers": []
 }
