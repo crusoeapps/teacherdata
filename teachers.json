@@ -1,15 +1,7 @@
 {
-  "updated": "2026-04-30T03:34:40.616Z",
+  "updated": "2026-04-30T03:39:55.391Z",
   "month": "April 2026",
   "teachers": [
-    {
-      "name": "Anna Beilharz",
-      "url": "https://crusoeapps.github.io/teacherdata/anna-beilharz.html"
-    },
-    {
-      "name": "Angela Casey",
-      "url": "https://crusoeapps.github.io/teacherdata/angela-casey.html"
-    },
     {
       "name": "Andrew Creek",
       "url": "https://crusoeapps.github.io/teacherdata/andrew-creek.html"
@@ -19,16 +11,8 @@
       "url": "https://crusoeapps.github.io/teacherdata/alice-fleay.html"
     },
     {
-      "name": "Amy Gillies",
-      "url": "https://crusoeapps.github.io/teacherdata/amy-gillies.html"
-    },
-    {
       "name": "Avnish Gungah",
       "url": "https://crusoeapps.github.io/teacherdata/avnish-gungah.html"
-    },
-    {
-      "name": "Alicia Parry",
-      "url": "https://crusoeapps.github.io/teacherdata/alicia-parry.html"
     },
     {
       "name": "Angus Mcpherson",
@@ -43,16 +27,8 @@
       "url": "https://crusoeapps.github.io/teacherdata/alistair-sharp.html"
     },
     {
-      "name": "Britney Brownhill",
-      "url": "https://crusoeapps.github.io/teacherdata/britney-brownhill.html"
-    },
-    {
       "name": "Beverley Carlton",
       "url": "https://crusoeapps.github.io/teacherdata/beverley-carlton.html"
-    },
-    {
-      "name": "Bryce Curnow",
-      "url": "https://crusoeapps.github.io/teacherdata/bryce-curnow.html"
     },
     {
       "name": "Ben Caruana",
@@ -63,36 +39,12 @@
       "url": "https://crusoeapps.github.io/teacherdata/bruce-cen.html"
     },
     {
-      "name": "Bastiaan Debondt",
-      "url": "https://crusoeapps.github.io/teacherdata/bastiaan-debondt.html"
-    },
-    {
-      "name": "Belinda Gilliekemmer",
-      "url": "https://crusoeapps.github.io/teacherdata/belinda-gilliekemmer.html"
-    },
-    {
       "name": "Breeanna Mckern",
       "url": "https://crusoeapps.github.io/teacherdata/breeanna-mckern.html"
     },
     {
-      "name": "Brayden Mertz",
-      "url": "https://crusoeapps.github.io/teacherdata/brayden-mertz.html"
-    },
-    {
       "name": "Billy Rogers",
       "url": "https://crusoeapps.github.io/teacherdata/billy-rogers.html"
-    },
-    {
-      "name": "Brooke Warren",
-      "url": "https://crusoeapps.github.io/teacherdata/brooke-warren.html"
-    },
-    {
-      "name": "Carolyn Boyd",
-      "url": "https://crusoeapps.github.io/teacherdata/carolyn-boyd.html"
-    },
-    {
-      "name": "Colleen Biggs",
-      "url": "https://crusoeapps.github.io/teacherdata/colleen-biggs.html"
     },
     {
       "name": "Catherine Boerema",
@@ -111,10 +63,6 @@
       "url": "https://crusoeapps.github.io/teacherdata/chelsea-hargreaves.html"
     },
     {
-      "name": "Christopher Hogan",
-      "url": "https://crusoeapps.github.io/teacherdata/christopher-hogan.html"
-    },
-    {
       "name": "Christopher Kellow",
       "url": "https://crusoeapps.github.io/teacherdata/christopher-kellow.html"
     },
@@ -127,10 +75,6 @@
       "url": "https://crusoeapps.github.io/teacherdata/carissa-mcintyre.html"
     },
     {
-      "name": "Charli Rogers",
-      "url": "https://crusoeapps.github.io/teacherdata/charli-rogers.html"
-    },
-    {
       "name": "Carole Waterson",
       "url": "https://crusoeapps.github.io/teacherdata/carole-waterson.html"
     },
@@ -139,24 +83,8 @@
       "url": "https://crusoeapps.github.io/teacherdata/duane-anderson.html"
     },
     {
-      "name": "Damian Emond",
-      "url": "https://crusoeapps.github.io/teacherdata/damian-emond.html"
-    },
-    {
       "name": "Danielle Hirth",
       "url": "https://crusoeapps.github.io/teacherdata/danielle-hirth.html"
-    },
-    {
-      "name": "Daryl Lowndes",
-      "url": "https://crusoeapps.github.io/teacherdata/daryl-lowndes.html"
-    },
-    {
-      "name": "Emma Grant",
-      "url": "https://crusoeapps.github.io/teacherdata/emma-grant.html"
-    },
-    {
-      "name": "Elle Mcdonald",
-      "url": "https://crusoeapps.github.io/teacherdata/elle-mcdonald.html"
     },
     {
       "name": "Ellen Mcgrath",
@@ -167,20 +95,8 @@
       "url": "https://crusoeapps.github.io/teacherdata/elizabeth-ogilvy.html"
     },
     {
-      "name": "Elizabeth Sedman",
-      "url": "https://crusoeapps.github.io/teacherdata/elizabeth-sedman.html"
-    },
-    {
       "name": "Liz Stewart",
       "url": "https://crusoeapps.github.io/teacherdata/liz-stewart.html"
-    },
-    {
-      "name": "Elizabeth Woodward",
-      "url": "https://crusoeapps.github.io/teacherdata/elizabeth-woodward.html"
-    },
-    {
-      "name": "Felixia Lee",
-      "url": "https://crusoeapps.github.io/teacherdata/felixia-lee.html"
     },
     {
       "name": "Greeshma Columbus",
@@ -189,14 +105,6 @@
     {
       "name": "Gary Mullens",
       "url": "https://crusoeapps.github.io/teacherdata/gary-mullens.html"
-    },
-    {
-      "name": "Gpratt",
-      "url": "https://crusoeapps.github.io/teacherdata/gpratt.html"
-    },
-    {
-      "name": "Gaynor Turner",
-      "url": "https://crusoeapps.github.io/teacherdata/gaynor-turner.html"
     },
     {
       "name": "Heidi Erasmus",
@@ -215,20 +123,8 @@
       "url": "https://crusoeapps.github.io/teacherdata/isabella-sangster.html"
     },
     {
-      "name": "Joshua Brown",
-      "url": "https://crusoeapps.github.io/teacherdata/joshua-brown.html"
-    },
-    {
       "name": "Julian Bedford",
       "url": "https://crusoeapps.github.io/teacherdata/julian-bedford.html"
-    },
-    {
-      "name": "Jacqueline Bentley",
-      "url": "https://crusoeapps.github.io/teacherdata/jacqueline-bentley.html"
-    },
-    {
-      "name": "Joshua Cotter",
-      "url": "https://crusoeapps.github.io/teacherdata/joshua-cotter.html"
     },
     {
       "name": "Jen Caneva-black",
@@ -275,14 +171,6 @@
       "url": "https://crusoeapps.github.io/teacherdata/jade-nicholls.html"
     },
     {
-      "name": "Jediah Shue",
-      "url": "https://crusoeapps.github.io/teacherdata/jediah-shue.html"
-    },
-    {
-      "name": "Jaksen Seymour",
-      "url": "https://crusoeapps.github.io/teacherdata/jaksen-seymour.html"
-    },
-    {
       "name": "Jemma Schultz",
       "url": "https://crusoeapps.github.io/teacherdata/jemma-schultz.html"
     },
@@ -311,16 +199,8 @@
       "url": "https://crusoeapps.github.io/teacherdata/soelay-pahthei.html"
     },
     {
-      "name": "Kyah Priestly",
-      "url": "https://crusoeapps.github.io/teacherdata/kyah-priestly.html"
-    },
-    {
       "name": "Katie Riddington",
       "url": "https://crusoeapps.github.io/teacherdata/katie-riddington.html"
-    },
-    {
-      "name": "Kate Sleep",
-      "url": "https://crusoeapps.github.io/teacherdata/kate-sleep.html"
     },
     {
       "name": "Louis Chivers",
@@ -337,14 +217,6 @@
     {
       "name": "Laura Johnstone",
       "url": "https://crusoeapps.github.io/teacherdata/laura-johnstone.html"
-    },
-    {
-      "name": "Leanne Rooke",
-      "url": "https://crusoeapps.github.io/teacherdata/leanne-rooke.html"
-    },
-    {
-      "name": "Lucille Mitchell",
-      "url": "https://crusoeapps.github.io/teacherdata/lucille-mitchell.html"
     },
     {
       "name": "Cleo Luvara",
@@ -367,10 +239,6 @@
       "url": "https://crusoeapps.github.io/teacherdata/mark-wrzesinski.html"
     },
     {
-      "name": "Naylin Aung",
-      "url": "https://crusoeapps.github.io/teacherdata/naylin-aung.html"
-    },
-    {
       "name": "Narelle Burgess",
       "url": "https://crusoeapps.github.io/teacherdata/narelle-burgess.html"
     },
@@ -381,10 +249,6 @@
     {
       "name": "Nadine Harper",
       "url": "https://crusoeapps.github.io/teacherdata/nadine-harper.html"
-    },
-    {
-      "name": "Nicarah Khong",
-      "url": "https://crusoeapps.github.io/teacherdata/nicarah-khong.html"
     },
     {
       "name": "Paige Combridge",
@@ -419,10 +283,6 @@
       "url": "https://crusoeapps.github.io/teacherdata/samuel-burdett.html"
     },
     {
-      "name": "Susan Groom",
-      "url": "https://crusoeapps.github.io/teacherdata/susan-groom.html"
-    },
-    {
       "name": "Samuel Hammond",
       "url": "https://crusoeapps.github.io/teacherdata/samuel-hammond.html"
     },
@@ -435,10 +295,6 @@
       "url": "https://crusoeapps.github.io/teacherdata/sandrah-lowenthal.html"
     },
     {
-      "name": "Samuel Langley",
-      "url": "https://crusoeapps.github.io/teacherdata/samuel-langley.html"
-    },
-    {
       "name": "Stewart Mills",
       "url": "https://crusoeapps.github.io/teacherdata/stewart-mills.html"
     },
@@ -449,14 +305,6 @@
     {
       "name": "Sam Polock",
       "url": "https://crusoeapps.github.io/teacherdata/sam-polock.html"
-    },
-    {
-      "name": "Syani Salsabilla",
-      "url": "https://crusoeapps.github.io/teacherdata/syani-salsabilla.html"
-    },
-    {
-      "name": "Sophie Thomson",
-      "url": "https://crusoeapps.github.io/teacherdata/sophie-thomson.html"
     },
     {
       "name": "Sean Taylor",
@@ -475,20 +323,12 @@
       "url": "https://crusoeapps.github.io/teacherdata/travis-colley.html"
     },
     {
-      "name": "Tanya Holt",
-      "url": "https://crusoeapps.github.io/teacherdata/tanya-holt.html"
-    },
-    {
       "name": "Taylah Pratt",
       "url": "https://crusoeapps.github.io/teacherdata/taylah-pratt.html"
     },
     {
       "name": "Talisa Keogh",
       "url": "https://crusoeapps.github.io/teacherdata/talisa-keogh.html"
-    },
-    {
-      "name": "Vicky Bolding",
-      "url": "https://crusoeapps.github.io/teacherdata/vicky-bolding.html"
     }
   ]
 }
